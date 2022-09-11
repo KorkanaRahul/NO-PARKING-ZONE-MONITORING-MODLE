@@ -1,0 +1,2 @@
+# NO-PARKING-ZONE-MONITORING-MODLE
+It supports Traffic managment system in No Parking zone.It detects the vehicles in the "No Parking Zone and Points out their Number plate and through ocr engine generates Vechile Number and then furthur it compares to central database for owner information and specifically phone number to alert them about the vehicle such that Parking in No Parking zone Vehicle has been Fined through a whtsapp message alert ".
